@@ -6,4 +6,4 @@ Run the site on development webserver
 
 Run python shell
 
-'python manage.py shell'
+`python manage.py shell`
