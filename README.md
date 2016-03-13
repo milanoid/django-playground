@@ -27,5 +27,5 @@ See [Reusable apps] (https://docs.djangoproject.com/en/1.9/intro/reusable-apps/)
 
 ### Using the package
 
-Prefered way is to install the package in *virtualenv* using *pip* `pip install django-polls-0.1.tar.gz`. Then follow instructions in `README.rst` (add the app `polls` into `INSTALLED_APPS` and setup `URLconf`).
+Preferred way is to install the package in *virtualenv* using *pip* `pip install django-polls-0.1.tar.gz`. Then follow instructions in `README.rst` (add the app `polls` into `INSTALLED_APPS` and setup `URLconf`).
 
